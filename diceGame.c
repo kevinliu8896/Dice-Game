@@ -1,11 +1,5 @@
 /*
-FINAL EXAM
-
-QUESTION 1
-
 Kevin Liu
-105191861
-
 */
 #include<stdio.h>
 #include <unistd.h>
